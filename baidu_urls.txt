@@ -1,0 +1,14 @@
+https://stingy-person.github.io/2022/06/19/back-end/JAVA/learning_materials/learning_materials/
+https://stingy-person.github.io/2022/06/13/front-end/desktop_application_construction/desktop_application_construction/
+https://stingy-person.github.io/2022/05/16/back-end/JAVA/jdk_download/jdk_download/
+https://stingy-person.github.io/2022/05/15/back-end/JAVA/code_format/code_format/
+https://stingy-person.github.io/2022/01/17/back-end/Ffmpeg/ffmpeg_install/
+https://stingy-person.github.io/2022/01/09/containerized/Docker/docker_dosgame/
+https://stingy-person.github.io/2022/01/01/back-end/Python/urllib3_request_call/
+https://stingy-person.github.io/2022/01/01/back-end/Python/python_install/
+https://stingy-person.github.io/2022/01/01/back-end/Python/aiphoto_build/
+https://stingy-person.github.io/2022/01/01/server/VMWare/vmware_util/
+https://stingy-person.github.io/2022/01/01/server/Linux/emqx_broker_compile/
+https://stingy-person.github.io/2022/01/01/server/Linux/centos_minio/
+https://stingy-person.github.io/2022/01/01/containerized/Docker/build_reids_image/
+https://stingy-person.github.io/2022/01/01/containerized/Docker/build_mysql_image/
